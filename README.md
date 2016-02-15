@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ImageJ2 is a new version of [ImageJ](http://imagej.net/) seeking to strengthen
 both the software and its community. Internally, it is a total redesign of
 ImageJ, but it is backwards compatible with ImageJ 1.x via a "legacy layer" and
@@ -119,3 +120,6 @@ For a list of known issues, see the
 
 Please report any bugs by following the [instructions
 online](http://imagej.net/Bugs).
+=======
+# SIMageJ 
+>>>>>>> gh-pages

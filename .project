@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>SIMageJ</name>
+=======
+	<name>sim2d</name>
+>>>>>>> gh-pages
 	<comment></comment>
 	<projects>
 	</projects>
@@ -11,6 +15,7 @@
 			</arguments>
 		</buildCommand>
 		<buildCommand>
+<<<<<<< HEAD
 			<name>org.eclipse.ui.externaltools.ExternalToolBuilder</name>
 			<triggers>auto,full,incremental,</triggers>
 			<arguments>
@@ -18,10 +23,18 @@
 					<key>LaunchConfigHandle</key>
 					<value>&lt;project&gt;/.externalToolBuilders/New_Builder.launch</value>
 				</dictionary>
+=======
+			<name>net.sourceforge.metrics.builder</name>
+			<arguments>
+>>>>>>> gh-pages
 			</arguments>
 		</buildCommand>
 	</buildSpec>
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
+<<<<<<< HEAD
+=======
+		<nature>net.sourceforge.metrics.nature</nature>
+>>>>>>> gh-pages
 	</natures>
 </projectDescription>
